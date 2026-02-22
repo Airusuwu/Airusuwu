@@ -8,15 +8,16 @@ Hola soy AIRUS, soy estudiante de ing. Sistemas Computacionales!
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AIRUS;Desarrollador+Back-End" alt="Typing SVG" /></a>
 </p>
 
-<img align="left" src="https://i.pinimg.com/1200x/00/c2/5b/00c25b6d5eca5f2c35fb6a9e95cb6438.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="200" />
+<img align="left" src="https://i.pinimg.com/1200x/35/42/81/354281c12427c60f9a48bbe17f735aa8.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="200" />
 <hr>
 
 ```
 -------------------------
-💻 Yo me considero Back-end
-🌟 Mi Lenguaje Favorito es JAVA
-🚩 Me gustaria especializarme en Desarrollo de Software
-💖 Me gusta mucho jugar videojuegos como R6, Fornite y Ready or not
+💻 Yo me considero Back-end.
+🌟 Mi Lenguaje Favorito es Pyton.
+🚩 Me gustaria especializarme en Desarrollo de Software.
+💖 Me encantan los perritos, en especial los pitbulls.
+🎮 Me gusta mucho jugar videojuegos como R6, Fornite y Ready or not
 🎵 Me gusta escuchar musica de todo tipo de generos.
 -------------------------
 ```
