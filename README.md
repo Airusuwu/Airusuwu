@@ -8,7 +8,7 @@ Hola soy AIRUS, soy estudiante de ing. Sistemas Computacionales!
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AIRUS;Desarrollador+Back-End" alt="Typing SVG" /></a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://i.pinimg.com/1200x/bc/8a/c8/bc8ac8f6b7f49374eb3527770568446c.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
