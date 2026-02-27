@@ -1,39 +1,65 @@
-# AFN-ε Designer + Lema de Arden (Vanilla JS)
+<h1 align="center">
+Hola soy AIRUS, soy estudiante de ing. Sistemas Computacionales!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<br/>
 
-Aplicación web sin framework para:
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AIRUS;Desarrollador+Back-End" alt="Typing SVG" /></a>
+</p>
 
-- Diseñar un **AFN-ε** gráficamente con **Cytoscape.js** (drag & drop).
-- Editar estados, estado inicial, estados finales y transiciones (incluyendo `ε`).
-- Importar/exportar definición del autómata en JSON.
-- Ejecutar conversión **AFN-ε → AFN sin ε** mediante **ε-closure**.
-- Construir y resolver el sistema de ecuaciones por **Lema de Arden**.
-- Mostrar la **regex final** y una **bitácora paso a paso**.
+<img align="left" src="https://i.pinimg.com/1200x/35/42/81/354281c12427c60f9a48bbe17f735aa8.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="200" />
+<hr>
 
-## Ejecutar localmente
-
-No requiere build tools.
-
-```bash
-python3 -m http.server 8000
 ```
+-------------------------
+💻 Yo me considero Back-end.
+🌟 Mi Lenguaje Favorito es Pyton.
+🚩 Me gustaria especializarme en Desarrollo de Software.
+💖 Me encantan los perritos, en especial los pitbulls.
+🎮 Me gusta mucho jugar videojuegos como R6, Fornite y Ready or not
+🎵 Me gusta escuchar musica de todo tipo de generos.
+-------------------------
+```
+<hr>
 
-Luego abre: `http://localhost:8000`
 
-También puedes abrir `index.html` directamente, pero para evitar restricciones del navegador al importar/exportar archivos se recomienda usar servidor local.
+## 🛠️ My Favorite Tools
 
-## Uso rápido
+### 👨‍💻 Lenguajes de Programación:
 
-1. Agrega estados con **+ Estado**.
-2. Selecciona un nodo y usa **Marcar inicial**.
-3. Selecciona uno o más nodos y usa **Toggle final**.
-4. Selecciona 2 nodos (origen y destino) y usa **+ Transición**, ejemplo: `a,b,ε`.
-5. Pulsa **Ejecutar Arden** para ver el resultado.
-6. Exporta/importa con JSON para guardar o cargar tu trabajo.
+<p>
+    <a ><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a ><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a ><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a "><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a ><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a ><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a ><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
-## Notación usada
 
-- Unión: `+`
-- Concatenación: implícita (ej. `ab`)
-- Cerradura de Kleene: `*`
-- Épsilon: `ε`
-- Vacío: `∅`
+### 🗄️ Bases de Datos:
+
+<p>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+</p>
+
+### 💻 Software y Herramientas:
+
+<p>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+### 👨🏽‍💻 Workspace
+<p>
+    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+</p>
+
+
+------
+
